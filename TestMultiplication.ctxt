@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TestMultiplication
+comment0.text=\n\ @author\ leon\ on\ 8/26/18.\n
+comment1.params=
+comment1.target=void\ testIntegerMultiplication()
+comment2.params=
+comment2.target=void\ testLongMultiplication()
+comment3.params=
+comment3.target=void\ testShortMultiplication()
+comment4.params=
+comment4.target=void\ testByteMultiplication()
+comment5.params=
+comment5.target=void\ testFloatMultiplication()
+comment6.params=
+comment6.target=void\ testDoubleMultiplication()
+numComments=7

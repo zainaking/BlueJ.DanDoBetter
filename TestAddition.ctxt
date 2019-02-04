@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TestAddition
+comment0.text=\n\ @author\ leon\ on\ 8/26/18.\n
+comment1.params=
+comment1.target=void\ testIntegerAddition()
+comment2.params=
+comment2.target=void\ testLongAddition()
+comment3.params=
+comment3.target=void\ testShortAddition()
+comment4.params=
+comment4.target=void\ testByteAddition()
+comment5.params=
+comment5.target=void\ testFloatAddition()
+comment6.params=
+comment6.target=void\ testDoubleAddition()
+numComments=7
